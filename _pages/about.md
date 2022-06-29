@@ -1,9 +1,8 @@
 ---
 layout: about
 title: about
-order: 1
 permalink: /
-subtitle: <a href="mailto:b08202029@ntu.edu.tw">Email</a>
+subtitle: <a href="mailto:b08202029@ntu.edu.tw">Contact</a>
 
 profile:
   align: right
@@ -12,9 +11,8 @@ profile:
     <p></p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-display_header: true
 ---
 
 I am an undergradute student in the [Computer Science and Information Engineering Department](https://www.csie.ntu.edu.tw) at [National Taiwan University](https://www.ntu.edu.tw). My research interests span machine learning, interpretability of neural network, and natural language processing.
