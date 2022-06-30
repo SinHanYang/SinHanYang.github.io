@@ -49,15 +49,15 @@
   type: time_table
   contents:
     - title: NTU Y.L.LIN Scholarship
-    - year: 2022
+      year: 2022
       description: 
         - Scholarship for exchange students.
 
     - title: NTU Dean's List award
-    - year: 2021
+      year: 2021
 
     - title: IPHO (International Physics Olympics) Taiwan team alternate player
-    - year: 2018
+      year: 2018
 
     
         
