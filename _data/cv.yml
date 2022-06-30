@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sin-Han (Harry) Yang
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science
+      institution: National Taiwan University
+      year: 2019 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Major in Computer Science and Information Engineering (CSIE).
+        - Double major in Physics.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Visiting Student 
+      institution: UC San Diego, Computer Science and Engineering
+      year: 2022 - Now
+
+    - title: Lab Member
+      institution: Natural Language Processing Laboratory, National Taiwan University
+      year: 2021 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Focus on fake news detection, using non-traditional approach such as interpretability.
+        - Gain the ability to find interesting topics, and implement ML projects.
+
+    - title: Research Assistant
+      institution: Research Center for Information Technology Innovation, Academia Sinica
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Modify communication software’s source code to extend functionality.
+        - Gain the ability to understand, modify and test big open source software.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Center for Quantum Frontier of Research and Technology, NCKU
+      year: 2020
       description:
+        - Derive the theory and do experiments on “Quantum Steering” effect.
+        - Use python module to simulate qubit, then apply to real data.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - NTU Y.L.LIN Scholarship 
+        - description:
+          - : Scholarship for exchange students.
+
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - NTU Dean’s list award 
+    - year: 2018
+      items: 
+        - IPHO (International Physics Olympics) Taiwan team alternate player 
+    
+        
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Fake news detection.
+    - title: Interpretability of neural network.
       items:
-        - Description 1.
-        - Description 2.
+        - The effects of individual neurons.
+        - The mechanism of neural network.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Sports, Video games, etc.
