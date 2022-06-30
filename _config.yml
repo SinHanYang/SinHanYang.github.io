@@ -8,12 +8,12 @@ middle_name:
 last_name: Yang
 email: b08202029@ntu.edu.tw
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Sin-Han (Harry) Yang's personal website.
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:  # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -74,7 +74,6 @@ stackoverflow_id: #your stackoverflow id
 
 contact_note: >
   Please reach me via email.
-
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -91,7 +90,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Sin-Han (Harry) Yang # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: My reflections of life and work. Please see my [medium](https://medium.com/@harry900302). 
+blog_description: My reflection on life and work.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -99,7 +98,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: Sin-Han Yang # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -107,7 +106,7 @@ disqus_shortname: Sin-Han Yang # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@harry900302
+    rss_url: https://medium.com/harry900302
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -209,8 +208,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Yang
+  first_name: Sin-Han
 
   style: apa
   locale: en
