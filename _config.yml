@@ -98,7 +98,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: SinHanYang # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -209,7 +209,7 @@ jekyll-archives:
 scholar:
 
   last_name: Yang
-  first_name: Sin-Han
+  first_name: [Sin-Han, Y.]
 
   style: apa
   locale: en

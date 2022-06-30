@@ -39,7 +39,7 @@
 
     - title: Research Assistant
       institution: Center for Quantum Frontier of Research and Technology, NCKU
-      year: 2020
+      year: 2020 
       description:
         - Derive the theory and do experiments on “Quantum Steering” effect.
         - Use python module to simulate qubit, then apply to real data.
@@ -51,7 +51,8 @@
     - year: 2022
       items: 
         - NTU Y.L.LIN Scholarship 
-        - Scholarship for exchange students.
+        description:
+          - Scholarship for exchange students.
 
     - year: 2021
       items: 

@@ -1,3 +1,3 @@
 # Sin-Han (Harry) Yang
-This is my personal webiste. Based on [*folio](https://github.com/bogoli/-folio) design.
+This is my personal webiste. Based on [al-folio](https://github.com/alshedivat/al-folio) design.
 
