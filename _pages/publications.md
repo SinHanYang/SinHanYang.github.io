@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 nav: true
+year: [2023]
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
