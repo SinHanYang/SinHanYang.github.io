@@ -50,7 +50,7 @@
             {% else %}
               {% unless forloop.last %}
                 {% if author_is_self %}
-                  {{author.first}} {{author.last}},
+                <em>{{author.first}} {{author.last}}</em>,
                 {% else %}
                   {% if coauthor_url %}
                   <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>,
@@ -60,7 +60,7 @@
                 {% endif %}
               {% else %}
                 {% if author_is_self %}
-                and {{author.first}} {{author.last}}
+                and <em>{{author.first}} {{author.last}}</em>
                 {% else %}
                   {% if coauthor_url %}
                   and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
