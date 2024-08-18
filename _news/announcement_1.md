@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-05 00:00:00-0400
+date: 2024-08-15 00:00:00-0400
 inline: true
 ---
 
-I will join UC San Diego CSE as a visiting student in July, 2022.
+Start working at [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp) as an research assistant. 

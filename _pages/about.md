@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="mailto:b08202029@ntu.edu.tw">Contact</a>
+subtitle: <a href="mailto:harry900302@gmail.com">Contact</a>
 
 profile:
   align: right
@@ -15,6 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an undergradute student in the [Computer Science and Information Engineering Department](https://www.csie.ntu.edu.tw) at [National Taiwan University](https://www.ntu.edu.tw). I am fortunate to have worked with Prof. [Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php), Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/), and Prof. [Jason D. Lee](https://jasondlee88.github.io/).
+I am an research assistant at [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp), working with Dr. [Emtiyaz Khan](https://emtiyaz.github.io). My research interests span machine learning (ML) robustness, interpretability and generalization. Specifically, my research vision is to make ML more trustworthy and generalized from both theoretical and empirical perspectives.
 
-My research interests span machine learning, interpretability of the neural network, and natural language processing. I work on the interpretability and generalization of deep learning algorithms from theoretical and empirical aspects.
+I received my B.S. in Computer Science and Physics from [National Taiwan University](https://www.ntu.edu.tw). During my undergraduate studies, I worked with Prof. [Hsin-Hsi Chen](http://nlg.csie.ntu.edu.tw/advisor.php) on explainable fake news detection. I also worked with Prof. [Tsui-Wei (Lily) Weng](https://lilywenglab.github.io/) on interpretable continual learning and adversarial robustness.
+
