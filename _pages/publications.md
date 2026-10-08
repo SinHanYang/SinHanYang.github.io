@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-nav: true
+nav: false
 years: [2026,2025,2024,2023]
 # description: Please see google scholar for more update 
 nav_order: 1
