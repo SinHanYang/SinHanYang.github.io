@@ -48,6 +48,17 @@ blockquote p {
   margin: 0;
 }
 
+.author sup {
+  font-size: 0.85em;
+  line-height: 0;
+  position: relative;
+  top: -0.45em;
+}
+
+article .clearfix h2 {
+  margin-top:2.5em;
+}
+
 // Math
 
 .equation {
