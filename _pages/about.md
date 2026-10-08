@@ -7,10 +7,8 @@ subtitle: <a href="mailto:sinhan.yang.tw@gmail.com">Contact</a>
 profile:
   align: right
   image: prof_pic.png
-  address: >
-    <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -21,7 +19,7 @@ Pursuring curiousity-driven research on AI systems, seeking deeper understanding
 Currently, I am a research scientist in [Appier](https://www.appier.com/en/) AI Research team, working with Prof. [Shao-Hua Sun](https://shaohua0116.github.io/), Prof. [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) and Prof. [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/). Previously, I was an research assistant at [RIKEN Center for Advanced Intelligence Project](https://aip.riken.jp), working with Prof. [Emtiyaz Khan](https://emtiyaz.github.io). I earned my Bachelor's degree in Computer Science and Physics at National Taiwan University.
 
 
-## Favorite Research Quotes
+### Favorite Research Quotes
 
 > *To myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.* - Isaac Newton 
 
