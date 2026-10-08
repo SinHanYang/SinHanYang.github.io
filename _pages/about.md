@@ -21,7 +21,7 @@ Currently, I am a research scientist in [Appier](https://www.appier.com/en/) AI 
 
 ### Favorite Research Quotes
 
-> *To myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.* - Isaac Newton 
+> *"To myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."* - Isaac Newton 
 
-> *Everything should be made as simple as possible, but not simpler.* - Albert Einstein
+> *"Everything should be made as simple as possible, but not simpler."* - Albert Einstein
 
