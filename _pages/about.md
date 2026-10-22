@@ -7,10 +7,19 @@ subtitle: <a href="mailto:sinhan.yang.tw@gmail.com">Contact</a>
 profile:
   align: right
   image: prof_pic.png
+  address: >
+    <div class="social">
+      <div class="contact-icons" style="display: flex; justify-content: center; gap: 0.75rem; font-size: 1.6rem; margin-top: 0.5rem;">
+        <a href="https://scholar.google.com/citations?user=5HlFvQQAAAAJ" title="Google Scholar" aria-label="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+        <a href="https://github.com/SinHanYang" title="GitHub" aria-label="GitHub" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+        <a href="https://twitter.com/SinHanYang" title="Twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/in/sinhanyang" title="LinkedIn" aria-label="LinkedIn" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+      </div>
+    </div>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 **Driven by curiosity to explore AI systems, seeking deeper understanding and actionable insights.** So far, I have explored [algorithms](https://arxiv.org/abs/2502.07273), [calibration](https://arxiv.org/abs/2602.13540), and [phenomena](https://arxiv.org/abs/2610.07990) in AI systems. By leveraging the understanding to improve AI systems, my long-term goal is to make AI beneficial to everyone.
